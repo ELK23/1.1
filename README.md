@@ -7,6 +7,7 @@
 
 
 2. Установить dashboard.
+
 ![image](https://github.com/user-attachments/assets/59f1b84d-b3b7-4f24-a56b-b7ed3a88e44b)
 
 3. Сгенерировать сертификат для подключения к внешнему ip-адресу.
@@ -17,14 +18,17 @@
 
 ### Задание 2. Установка и настройка локального kubectl
 1. Установить на локальную машину kubectl.
+   
 ![image](https://github.com/user-attachments/assets/5d281d80-a85f-4992-b548-f97ae58b8f30)
 
 
-2. Настроить локально подключение к кластеру.
+3. Настроить локально подключение к кластеру.
+
 ![image](https://github.com/user-attachments/assets/32d9f2f3-ad9c-46e9-b4b0-28dfd73e0650)
 
 
-3. Подключиться к дашборду с помощью port-forward.
+4. Подключиться к дашборду с помощью port-forward.
+
 ![image](https://github.com/user-attachments/assets/15068124-7817-4f19-98b2-6c33dcd1bd5f)
 
 ------
